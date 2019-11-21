@@ -1,1 +1,1 @@
-# logic-stats
+#This repository contains projects and case-studies.
